@@ -2,7 +2,7 @@
 
 .swiper-container{
 	position: absolute;
-	height: 800px;
+	height: 100%;
 	width: 100%;
 }
 
@@ -12,17 +12,17 @@
 	background-size: cover;
 }
 .s2{
-	background:  url(../images/wx02.jpg) no-repeat;
+	background:  url(../images/wx02.jpg) center no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 .s3{
-	background:  url(../images/wx03.jpg) no-repeat;
+	background:  url(../images/wx03.jpg) center no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 .s4{
-	background:  url(../images/wx04.jpg) no-repeat;
+	background:  url(../images/wx04.jpg) center no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }

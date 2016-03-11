@@ -2,37 +2,37 @@
 
 .swiper-container{
 	position: absolute;
-	height: 800px;
+	height: 100%;
 	width: 100%;
 }
 
 .s1{
-	background:  url(../images/wx01.jpg) no-repeat;
+	background:  url(../images/wx01.jpg) center 0 no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 .s2{
-	background:  url(../images/wx02.jpg) no-repeat;
+	background:  url(../images/wx02.jpg) center 0 no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 .s3{
-	background:  url(../images/wx03.jpg) no-repeat;
+	background:  url(../images/wx03.jpg) center 0 no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 .s4{
-	background:  url(../images/wx04.jpg) no-repeat;
+	background:  url(../images/wx04.jpg) center 0 no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 .s5{
-	background:  url(../images/wx05.jpg) no-repeat;
+	background:  url(../images/wx05.jpg) center 0 no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 .s6{
-	background:  url(../images/wx06.jpg) no-repeat;
+	background:  url(../images/wx06.jpg) center 0 no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
